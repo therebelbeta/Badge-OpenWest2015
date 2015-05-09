@@ -34,12 +34,12 @@ CON
   SCLK  = 11
   MISO  = 12
   
-  pA    = 14
-  pB    = 13
-  pU    = 26
-  pD    = 1
-  pL    = 0
-  pR    = 27
+  pB    = 14
+  pA    = 13
+  pD    = 26
+  pU    = 1
+  pR    = 0
+  pL    = 27
 
 OBJ
   disp  : "ILI9341-spi"
